@@ -20,8 +20,8 @@ This repository includes comprehensive notes and sample programs for mastering f
 To get started with the content in this repository, clone the repo and explore the directories for notes and code samples.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Jayesh-Prajapati9/WebDev.git
+cd WebDev
 ```
 
 ## Contributing
